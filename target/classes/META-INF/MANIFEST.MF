@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: libs/mssql-jdbc-9.2.1.jre8.jar libs/AbsoluteLayout-RELEASE12
+ 6.jar libs/jcalendar-1.4.jar libs/javax.mail-1.6.2.jar libs/activation-
+ 1.1.jar
+Main-Class: com.hrsm.UI.LoginJFrame
+Created-By: Maven Integration for Eclipse
+
